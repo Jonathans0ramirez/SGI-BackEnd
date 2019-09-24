@@ -1,0 +1,10 @@
+{
+  "name": "Firestore",
+  "type": "service_account",
+  "projectId": "authtest-f3f65",
+  "clientEmail":  "firebase-adminsdk-9mg33@authtest-f3f65.iam.gserviceaccount.com",
+  "privateKeyId": "bce0140f86ddedfa628d677020d34d94819a59a1",
+  "privateKey": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQDPgeTuBrufGiQa\ne1zCRIbaz1l1PIg70HjxQeV1BQkoh0FpeMTwtu6DPdCiZUk4TdJq/KhEDXTV6g/R\nlSRdHNmvDxbsH2rGdKinwMzf68YbIw7jMwAmLohrmLpsInnnNM/fobPcjUgKgapY\n/KMMbxcEh+oCaWbvh4dEwjTCHa5jetrnFwkoIFVNk+6ZgPJy8sJVWRs1JD478TIS\nNbaInaRZ+g/PL8+tEh6rcbjQ8CQ/uy68OdGVynCw3Oul5EU61/4flzLdCOI5TrQV\nDrPk7eXk8GpyPfJB1c27deLTC8KLJCck4AQVQ0vD1Cs7ngqXmhwDSZSR+HlRTHEw\nIGGadc1HAgMBAAECggEACOe1p+NhFORdzUcjBXFEakqAt8/Htu1s60mdK8byDCu1\nym104jGvjbFO7VE0cbahQ5chL352V6HKWP+yBk7xJpqarLpybh7eiAh1olxvbYW1\nI1nydTEFCL0OrwpRufLhwuKhIeNsRosnANeitatkzPx6Ne1JDhl+XByLgBMfA0TU\nKn8G5+LDEHgP7/nWBmX8ylq0rwqrmBohqgeeKeund4fh8AzoiRkYAqbF/2zAZFyA\nsHLkLiPvj9Hza+++7n9OQINkhQV783VEg9avfCbFwAKOZCf54t/CD2HgP7ovpwNf\nEArnD69fdVNGq9tsNihXdsNmbdwr0r78UQTCItVBTQKBgQDtjb5WPu6cCkICs4Hi\nhSeP8moK/Qd9RpI2E7BPysQ9Po04Yjmw6Ta8smlbF1HVut7PTNtQrOxYRo9whCLm\nijlPlg0Kh6wtQOdOzja4/7rJUZbzo87cDbxD0wjQh7dmkwG2mjbTfV/LU83EGIso\nypdobXEDFFan8XNMy3ecC4lzwwKBgQDfnt6xR8vrfHhusaI4L1QfYJFOl6dG9sLn\nC2AE46PYr59/jL3/RVMFhHPw2C3djNW5O52dn8/JVtKf3px47X37bAkKHzQdDzsG\nVLTQ50UNTbwvyir/jXhvdAOzh91+xGLgXsqV5KBcGgh/J53Gk+9Nfo6BFUQYA+M9\nbIaf0j58LQKBgFFqO+qZJPQLu/XrCb/VvOpjvZ5IfBGeZyvrcYjXSIxo7MN/PqB4\nPU9Mojka8+wZYJWRlLTAnzvd6vk4ADIc+2lgVtXeC89yqBPlLvIWizDGKsMTyCi4\n+GYSZLn7WYrpJTQtBE9Vb8hiz2m+s6rmTB/5KjtQ9CYY5VhTf4nWlmQ7AoGASdFl\n7dungyrpjpDw3d8xw9Ha5bjGLXTTzfVBUxvaQHNpEW/iYFwAFfgtVbnnGhWdj7IQ\nS7Ivo2UXzlJsELdFOTPmoALA7z7R2zsnHTba4pNgpd3057tJoHEJr8AP7ALkKPDh\nqy13ii/F0kO/n4fCHTDD1fSxL8RIxUQIBMYgflkCgYA0omnujn3PMYwJN/u+A1dI\nh1FAcYnKLqT7bBgYaFtrPyxcII2G/rGCVFWqkqTQ1WjeoMsbDUwB55mt3MEapWGi\n7EEz+G3PXtIRWClRvlT3302KDPFVYv+9LTN6Iq7+AItVEt7NW5jriUGvVggpYryv\nP6bWaa6vZ+ViHVXwe1+aeA==\n-----END PRIVATE KEY-----\n",
+  "databaseName": "Optional, Default: projectId",
+  "connector": "loopback-connector-firestore" 
+}
